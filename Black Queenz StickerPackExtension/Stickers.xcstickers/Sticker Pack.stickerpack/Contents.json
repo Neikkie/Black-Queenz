@@ -1,9 +1,65 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
-    "grid-size" : "regular"
-  }
+    "grid-size" : "large"
+  },
+  "stickers" : [
+    {
+      "filename" : "1.sticker"
+    },
+    {
+      "filename" : "18DF9C8F-B0F8-4603-B12C-40611322F7C0.sticker"
+    },
+    {
+      "filename" : "C54E5A9A-F7CE-4AA5-8F00-5F6194FC2583.sticker"
+    },
+    {
+      "filename" : "ChatGPT Image Mar 26, 2026 at 06_13_54 PM.sticker"
+    },
+    {
+      "filename" : "32B7C0DC-EF1E-4405-BF5A-D2DE12AD943A.sticker"
+    },
+    {
+      "filename" : "20D16B76-A7E9-47EF-80DC-02F33DF3A03C.sticker"
+    },
+    {
+      "filename" : "B192A872-E348-4428-BDB1-11D90965000A.sticker"
+    },
+    {
+      "filename" : "2.sticker"
+    },
+    {
+      "filename" : "AB0E431E-E53A-48F2-9013-5455A5935DA5.sticker"
+    },
+    {
+      "filename" : "2591FAD7-E5CF-4FAD-BB3D-984E08B467C2.sticker"
+    },
+    {
+      "filename" : "44867741-CA6C-46DA-BFA3-EE3F53A85AFE.sticker"
+    },
+    {
+      "filename" : "FDBEF851-A0FC-4ED7-ADCB-B28BCDAE74AC.sticker"
+    },
+    {
+      "filename" : "5.sticker"
+    },
+    {
+      "filename" : "3.sticker"
+    },
+    {
+      "filename" : "659E206C-A4A2-4967-B6DD-E80E5F72323D.sticker"
+    },
+    {
+      "filename" : "A37BA221-B93F-4832-A7E2-2B235BB550B9.sticker"
+    },
+    {
+      "filename" : "4.sticker"
+    },
+    {
+      "filename" : "D720332D-C9A3-4DDD-92DA-0FBBEBB1BC73.sticker"
+    }
+  ]
 }
